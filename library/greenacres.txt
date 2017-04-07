@@ -2,9 +2,8 @@ This is the first   line of code
 This is the second  line of code
 This is the third   line of code
 This is the forth   line of code
-This is the fifth   line of code and blueburd will take ownership of it from now on.
-This is the sixth   line of code
-Blueburd will also add some shit here.
+This is the fifth   line of code and green burd wants to change it
+This is the sixth   line of code and Blueburd will also add some shit here.
 This is the seventh line of code
 This is the eighth  line of code
 For shits& giggles...bluebird will make a modification here too.
